@@ -1,0 +1,5 @@
+brew "bison"
+brew "re2c"
+brew "gmp"
+brew "libsodium"
+brew "imagemagick"
